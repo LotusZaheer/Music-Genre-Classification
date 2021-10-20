@@ -16,7 +16,6 @@ Orlando Alberto Moncada Rodriguez | 2170133 | orlandomoncada610@gmail.com
 * Diseñar un clasificador de géneros musicales basado 
 en algoritmos de deep learning
 * Entender el sonido y encontrar las diferencias de una una pista de audio y otra. 
-* Entender el sonido y encontrar las diferencias de una una pista de audio y otra. 
 * Automatizar la clasificación musical con el fin de hacer de la selección de canciones más rápida y menos engorrosa.
 
 
