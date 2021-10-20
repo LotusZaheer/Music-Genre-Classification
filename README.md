@@ -48,4 +48,3 @@ Los datos provienen del dataset [datos](https://www.kaggle.com/andradaolteanu/gt
 1. [Codigo](https://github.com/LotusZaheer/Proyecto/blob/master/Index.ipynb)
 2. [Video youtube](https://youtu.be/9wx-DlqBXEY)
 3. [Presentacion](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/Deteccion_RD.pdf)
->>>>>>> Readme
