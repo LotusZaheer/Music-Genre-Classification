@@ -1,16 +1,15 @@
 # Music Genre Classification
 
+![Texto alternativo](Banner.jpg)
+
 Escuela de Ingeniería de Sistemas e Informática
 24552 - INTELIGENCIA ARTIFICIAL II - Grupo JI
 
 **Autores**|Código| E-mail
 --|--|--
-
 Andrés Felipe Uribe García | 2160793 | andresfelipeuribe11@gmail.com
 Juan Felipe Ortiz Trillos | 2170105 | feltri08@gmail.com
 Orlando Alberto Moncada Rodriguez | 2170133 | orlandomoncada610@gmail.com
-
-![Texto alternativo](Banner.jpg)
 
 ## Objetivos
 
