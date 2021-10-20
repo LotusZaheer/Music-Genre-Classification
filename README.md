@@ -22,7 +22,7 @@ en algoritmos de deep learning
 
 ## Dataset:
 
-Los datos provienen del dataset [datos](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification) el cual contiene diferentes pistas de audio ordenadas en 10 generos musicales distintos
+Los datos provienen del dataset [GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification) el cual contiene diferentes pistas de audio ordenadas en 10 generos musicales distintos
 
 * **0- rock**        100 pistas
 * **1- pop**          100 pistas
@@ -47,4 +47,5 @@ Los datos provienen del dataset [datos](https://www.kaggle.com/andradaolteanu/gt
 
 1. [Codigo](https://github.com/LotusZaheer/Proyecto/blob/master/Index.ipynb)
 2. [Video youtube](https://youtu.be/9wx-DlqBXEY)
-3. [Presentacion](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/Deteccion_RD.pdf)
+3. [Presentacion](https://github.com/LotusZaheer/Proyecto/blob/master/Diapositivas/Final.pdf)
+3. [Poster](https://github.com/LotusZaheer/Proyecto/blob/master/Diapositivas/Poster.pdf)
